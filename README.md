@@ -1,4 +1,4 @@
-# FMNIST Classification with CNN and RNN
+# FMNIST Classification using CNN and RNN
 ## Fendy Hendriyanto and Team
 
 * <b>Introduction</b>
