@@ -3,3 +3,9 @@ mnist/
 
 # data
 data/
+logs/
+
+# model files
+model/
+*.h5
+*.csv
